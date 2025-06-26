@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Anna </h2>
 
@@ -36,16 +35,11 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/annalettiero/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anna%20Lettiero%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="anna.lettiero.97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="anna.lettiero.97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anna.lettiero.97@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
