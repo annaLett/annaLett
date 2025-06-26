@@ -40,6 +40,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/annalettiero/in/AVS1508/"><img alt="LinkedIn" src="https://img.anna.io/badge/LinkedIn-Anna%20Lettiero%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/annalettiero/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="anna.lettiero.97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anna.lettiero.97@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
